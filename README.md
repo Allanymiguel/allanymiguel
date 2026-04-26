@@ -5,8 +5,7 @@
 <div align="center">
     <p>Currently working at <a href="https://robbu.global/home/">Robbu</a>.<br>
     Studying Information Systems at <a href="https://www.unitins.br/nPortal/">UNITINS </a>university.<br>
-    Interested in web development and problem solving.<br>
-    From Brasil!</p>
+    Interested in web development and problem solving.<br></p>
     <p>Reach me out through my email at <a href="aallanymiguel@gmail.com">aallanymiguel@gmail.com</a></p>
 </div>
   
